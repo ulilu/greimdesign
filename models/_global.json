@@ -1,0 +1,443 @@
+{
+  "products": [
+
+    { 
+      "productitem":    "PlusTish",
+      "producttitle":   "Schreibtisch",
+      "productvariant": [
+        {
+          "variant": [
+            {"variantname":   "&nbsp"},
+            {"variantdiff":   "145 cm"},
+            {"variantprice":  "3.200"}
+          ]
+        },
+        {
+          "variant": [
+            {"variantname":   "lang"},
+            {"variantdiff":   "160 cm"},
+            {"variantprice":  "4.500"}
+          ]
+        }
+      ],
+      "productshop": [
+        {
+          "shop": [
+            {"shopname":     "lokaldesign.de"},
+            {"shoplink":     "http://lokaldesign.de/Designer/Bastian-Greim-GreimDesign/PlusTish.html"}
+          ]
+        }
+      ],
+      "productmaterials": [
+        {"material":     "Klares Plexiglas (<a href=\"../glossar.html#gloss-pmm\">PMMA<\/a>) 10mm"},
+        {"material":     "Unterseite wei&szlig; lackiert"}
+      ]
+    },
+
+
+    { 
+      "productitem":    "DeckTish",
+      "producttitle":   "Schreibtisch &amp; Esstisch",
+      "productvariant": [
+        {
+          "variant": [
+            {"variantname":   "kurz"},
+            {"variantdiff":   "145 * 70 cm"},
+            {"variantprice":  "1.200"}
+          ]
+        },
+        {
+          "variant": [
+            {"variantname":   "mittel"},
+            {"variantdiff":   "165 * 70 cm"},
+            {"variantprice":  "1.390"}
+          ]
+        },
+        {
+          "variant": [
+            {"variantname":   "lang"},
+            {"variantdiff":   "200 * 100 cm"},
+            {"variantprice":  "1.690"}
+          ]
+        }
+      ],
+      "productshop": [
+        {
+          "shop": [
+            {"shopname":     "lokaldesign.de"},
+            {"shoplink":     "http://lokaldesign.de/Designer/Bastian-Greim-GreimDesign/DeckTish.html"}
+          ]
+        },
+        {
+          "shop": [
+            {"shopname":     "selekkt.com"},
+            {"shoplink":     "http://selekkt.com/greimdesign-decktisch-lichtblau.html"}
+          ]
+        }
+      ],
+      "productmaterials": [
+        {"material":      "Oberseite &amp; Beine in Esche oder Eiche, natur"},
+        {"material":      "Unterseite Esche, farbig lackiert"}
+      ]
+    },
+
+
+    { 
+      "productitem":      "ShwingSitz",
+      "producttitle":     "Schaukelsessel",
+      "productvariant": [
+        {
+          "variant": [
+            {"variantname":     ""},
+            {"variantdiff":     "Microleder"},
+            {"variantprice":    "1.980"}
+          ]
+        },
+        {
+          "variant": [
+            {"variantname":     ""},
+            {"variantdiff":     "Kuhfell"},
+            {"variantprice":    "2.190"}
+          ]
+        }
+      ],
+      "productshop": [
+        {
+          "shop": [
+            {"shopname":      "lokaldesign.de"},
+            {"shoplink":      "http://lokaldesign.de/Designer/Bastian-Greim-GreimDesign/ShwingSitz.html"}
+          ]
+        }
+      ],
+      "productmaterials": [
+        {
+          "variantmaterials":  [
+            {"variantversion": "Basis-Version"},
+            {"material":     "Kufen aus <a href=\"../glossar.html#gloss-wal\">Walnussholz<\/a>"},
+            {"material":     "Bezug aus <a href=\"../glossar.html#gloss-mic\">Microleder<\/a>"},
+            {"material":     "Polsterung aus <a href=\"../glossar.html#gloss-int\">Integralschaum</a>"}
+          ]
+        },
+        {
+          "variantmaterials":  [
+            {"variantversion": "&raquo;Fur&laquo;-Version"},
+            {"material":     "Kufen aus ger&auml;ucherter Eiche"},
+            {"material":     "Bezug aus Kuhfell (aus artgerechter Haltung)"},
+            {"material":     "Polsterung aus Integralschaum"}
+          ]
+        }
+      ]
+    },
+
+
+    { 
+      "productitem":    "KlubStool-Duo",
+      "producttitle":   "Faltsessel",
+      "productvariant": [
+        {
+          "variant": [
+            {"variantname":   ""},
+            {"variantdiff":   "2 St&uuml;ck"},
+            {"variantprice":  "1.450"}
+          ] 
+        }
+      ],
+      "productmaterials": [
+        {"material":     "<a href=\"../glossar.html#gloss-bir\">Birkenfurnier-Sperrholz<\/a>"},
+        {"material":     "<a href=\"../glossar.html#gloss-hpl\">HPL-Beschichtung<\/a>"}
+      ]
+    },
+
+
+    { 
+      "productitem":    "KneeStool",
+      "producttitle":   "Polstersessel",
+      "productvariant": [
+        {
+          "variant": [
+            {"variantname":   ""},
+            {"variantdiff":   ""},
+            {"variantprice":  "1.980"}
+          ]
+        }
+      ],
+      "productshop": [
+        {
+          "shop": [
+            {"shopname":     "lokaldesign.de"},
+            {"shoplink":     "http://lokaldesign.de/Designer/Bastian-Greim-GreimDesign/Polstersessel-KneeStool.html"}
+          ]
+        }
+      ],
+      "productmaterials": [
+        {"material":     "Rahmen aus Buche massiv"},
+        {"material":     "F&uuml;&szlig;e in Esche, Eiche oder Nu&szlig;baum, ge&ouml;lt"},
+        {"material":     "Bezug aus Kvadrat-Polsterstoff (Hallingdal 65)"},
+        {"material":     "R&uuml;ckenkissen (50x50 cm) als Zubeh&ouml;r erh&auml;ltlich"}
+      ]
+    },
+
+
+    {
+      "productitem":    "SteckBord",
+      "producttitle":   "Keilregal",
+      "productvariant": [
+        {
+          "variant": [
+            {"variantname":   ""},
+            {"variantdiff":   "190 cm"},
+            {"variantprice":  "1.780"}
+          ]
+        },
+        {
+          "variant": [
+            {"variantname":   "lang"},
+            {"variantdiff":   "240 cm"},
+            {"variantprice":  "2.380"}
+          ]
+        }
+      ],
+      "productmaterials": [
+        {"material":      "<a href=\"../glossar.html#gloss-wal\">Amerikanisches Walnussholz<\/a>"},
+        {"material":      "<a href=\"../glossar.html#gloss-oel\">&Ouml;l- &amp; Wachsveredelung<\/a>"}
+      ]
+    },
+
+
+    { 
+      "productitem":    "PhonoDeck",
+      "producttitle":   "Medienm&ouml;bel",
+      "productvariant": [
+        {
+          "variant": [
+            {"variantname":   "kurz"},
+            {"variantdiff":   "135 cm"},
+            {"variantprice":  "980"}
+          ]
+        },
+        {
+          "variant": [
+            {"variantname":   "mittel"},
+            {"variantdiff":   "150 cm"},
+            {"variantprice":  "1.320"}
+          ]
+        },
+        {
+          "variant": [
+            {"variantname":   "lang"},
+            {"variantdiff":   "175 cm"},
+            {"variantprice":  "1.780"}
+          ]
+        }
+      ],
+      "productshop": [
+        {
+          "shop": [
+            {"shopname":     "lokaldesign.de"},
+            {"shoplink":     "http://lokaldesign.de/Designer/Bastian-Greim-GreimDesign/PhonoDeck.html"}
+          ]
+        },
+        {
+          "shop": [
+            {"shopname":     "selekkt.com"},
+            {"shoplink":     "http://selekkt.com/greimdesign-phonodeck.html"}
+          ]
+        }
+      ],
+      "productmaterials": [
+        {"material":      "<a href=\"../glossar.html#gloss-wal\">Amerikanisches Walnussholz<\/a>"},
+        {"material":      "Gedrechselte S&auml;ule, wei&szlig; lackiert"}
+      ]
+    },
+
+
+    { 
+      "productitem":    "DoubleDeck",
+      "producttitle":   "Beistelltisch",
+      "productvariant": [
+        {
+          "variant": [
+            {"variantname":   "Dreibein"},
+            {"variantdiff":   ""},
+            {"variantprice":  "380"}
+          ]
+        },
+        {
+          "variant": [
+            {"variantname":   "Vierbein"},
+            {"variantdiff":   ""},
+            {"variantprice":  "460"}
+          ]
+        }
+      ],
+      "productshop": [
+        {
+          "shop": [
+            {"shopname":     "lokaldesign.de"},
+            {"shoplink":     "http://lokaldesign.de/Designer/Bastian-Greim-GreimDesign/DoubleDeck.html"}
+          ]
+        },
+        {
+          "shop": [
+            {"shopname":     "selekkt.com"},
+            {"shoplink":     "http://selekkt.com/greimdesign-doubledeck-dreibein.html"}
+          ]
+        }
+      ],
+      "productmaterials": [
+        {"material":      "Oberseite &amp; Beine in Esche oder Eiche, natur"},
+        {"material":      "Unterseite Esche, farbig lackiert"}
+      ]
+    },
+
+
+    { 
+      "productitem":    "SingleDeck",
+      "producttitle":   "Beistelltisch",
+      "productvariant": [
+        {
+          "variant": [
+            {"variantname":   "Kreis"},
+            {"variantdiff":   ""},
+            {"variantprice":  "390"}
+          ]
+        },
+        {
+          "variant": [
+            {"variantname":   "Quadrat"},
+            {"variantdiff":   ""},
+            {"variantprice":  "390"}
+          ]
+        }
+      ],
+      "productshop": [
+        {
+          "shop": [
+            {"shopname":     "lokaldesign.de"},
+            {"shoplink":     "http://lokaldesign.de/item/453-doubledeck"}
+          ]
+        }
+      ],
+      "productmaterials": [
+        {"material":      "komplett aus Walnussholz natur oder Eiche natur (astfrei)"}
+      ]
+    },
+
+
+    { 
+      "productitem":    "GoldShine",
+      "producttitle":   "Stehlampe",
+      "productvariant": [
+        {
+          "variant": [
+            {"variantname":   "&nbsp;"},
+            {"variantdiff":   "125&nbsp;cm"},
+            {"variantprice":  "460"}
+          ]
+        },
+        {
+          "variant": [
+            {"variantname":   "lang"},
+            {"variantdiff":   "165&nbsp;cm"},
+            {"variantprice":  "520"}
+          ]
+        }
+      ],
+      "productmaterials": [
+        {"material":      "<a href=\"../glossar.html#gloss-pul\">Pulverbeschichteter Stahl<\/a>"},
+        {"material":      "Innenseite mit 23 Karat <a href=\"../glossar.html#gloss-bla\">Blattgold<\/a> vergoldet"},
+        {"material":      "Halogenleuchtmittel (40W), Fassungsgr. E27"},
+        {"material":      "Zugschalter mit handgefertigter Schl&uuml;sselquaste aus goldfarbenem Garn"}
+
+      ]
+    },
+
+
+    { 
+      "productitem":    "DeckShine",
+      "producttitle":   "Tischleuchte",
+      "productvariant": [
+        {
+          "variant": [
+            {"variantname":   ""},
+            {"variantdiff":   ""},
+            {"variantprice":  "380"}
+          ]
+        }
+      ],
+      "productshop": [
+        {
+          "shop": [
+            {"shopname":     "lokaldesign.de"},
+            {"shoplink":     "http://lokaldesign.de/Designer/Bastian-Greim-GreimDesign/DeckShine.html"}
+          ]
+        },
+        {
+          "shop": [
+            {"shopname":     "selekkt.com"},
+            {"shoplink":     "http://selekkt.com/greimdesign-deckshine-schreibtischleuchte.html"}
+          ]
+        }
+      ],
+      "productmaterials": [
+        {"material":      "Eiche-, Esche- oder Nu&szlig;baumholz, ge&ouml;lt"},
+        {"material":      "farbige Teillackierung"},
+        {"material":      "Kippschalter aus Kunststoff mit Chromrosette"},
+        {"material":      "Trafo Input: AC 100&#8211;240V 50/60HZ, Output: DC&nbsp;12V&nbsp;1,0A"},
+        {"material":      "Stromkabel mit 1,4m L&auml;nge"}
+      ]
+    },
+
+
+    { 
+      "productitem":    "KippShine",
+      "producttitle":   "Stehleuchte",
+      "productvariant": [
+        {
+          "variant": [
+            {"variantname":   ""},
+            {"variantdiff":   "Holzsockel"},
+            {"variantprice":  "490"}
+          ]
+        },
+        {
+          "variant": [
+            {"variantname":   ""},
+            {"variantdiff":   "Betonsockel"},
+            {"variantprice":  "550"}
+          ]
+        }
+      ],
+      "productmaterials": [
+        {"material":      "Eiche- oder Nussbaumholz, ge&ouml;lt"},
+        {"material":      "auf Wunsch teillackiert"},
+        {"material":      "54 warmwei&szlig;e LED's (4,32W Stromverbrauch)"},
+        {"material":      "Kippschalter aus Kunststoff mit Chromrosette"},
+        {"material":      "Trafo Input: AC 100–240V 50/60HZ, Output: DC 12V 1,0A"},
+        {"material":      "Stromkabel mit 1,4m L&auml;nge"},
+        {"material":      "3mm Stahlblech Bodenplatte pulverbeschichtet"},
+        {"material":      "optional: Betonsockel f&uuml;r noch bessere Standsicherheit"}
+
+      ]
+    }
+
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

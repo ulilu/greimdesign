@@ -1,0 +1,15 @@
+//GreimDesign 141211
+
+//Caching schema
+<filesMatch "\.(ico|gif|jpg|jpeg|png|svg|css|js)$"> 
+ExpiresActive On 
+ExpiresDefault "access plus 1 hour" 
+Header append Cache-Control "public" 
+</filesMatch>
+
+//Custom 404 errors
+ErrorDocument 404 /www/404.html
+
+//Prevent directory listings
+Options All -Indexes
+
