@@ -76,8 +76,8 @@
         }
       ],
       "productmaterials": [
-        {"material":      "Oberseite &amp; Beine in Esche oder Eiche, natur"},
-        {"material":      "Unterseite Esche, farbig lackiert"}
+        {"material":      "Platte und Beine in Esche oder Eiche natur"},
+        {"material":      "Plattenunterseite farbig lackiert"}
       ]
     },
 
@@ -129,26 +129,7 @@
       ]
     },
 
-
-    { 
-      "productitem":    "KlubStool-Duo",
-      "producttitle":   "Faltsessel",
-      "productvariant": [
-        {
-          "variant": [
-            {"variantname":   ""},
-            {"variantdiff":   "2 St&uuml;ck"},
-            {"variantprice":  "1.450"}
-          ] 
-        }
-      ],
-      "productmaterials": [
-        {"material":     "<a href=\"../glossar.html#gloss-bir\">Birkenfurnier-Sperrholz<\/a>"},
-        {"material":     "<a href=\"../glossar.html#gloss-hpl\">HPL-Beschichtung<\/a>"}
-      ]
-    },
-
-
+    
     { 
       "productitem":    "KneeStool",
       "producttitle":   "Polstersessel",
@@ -170,10 +151,29 @@
         }
       ],
       "productmaterials": [
-        {"material":     "Rahmen aus Buche massiv"},
-        {"material":     "F&uuml;&szlig;e in Esche, Eiche oder Nu&szlig;baum, ge&ouml;lt"},
-        {"material":     "Bezug aus Kvadrat-Polsterstoff (Hallingdal 65)"},
+        {"material":     "Rahmen aus Buchenfurnier-Sperrholz"},
+        {"material":     "Füße in Esche, Eiche oder Nußbaum, geölt"},
+        {"material":     "Bezug aus Polsterstoff Hallingdal 65 von Kvadrat"},
         {"material":     "R&uuml;ckenkissen (50x50 cm) als Zubeh&ouml;r erh&auml;ltlich"}
+      ]
+    },
+    
+    
+    { 
+      "productitem":    "KlubStool-Duo",
+      "producttitle":   "Faltsessel",
+      "productvariant": [
+        {
+          "variant": [
+            {"variantname":   ""},
+            {"variantdiff":   "2 St&uuml;ck"},
+            {"variantprice":  "1.450"}
+          ] 
+        }
+      ],
+      "productmaterials": [
+        {"material":     "<a href=\"../glossar.html#gloss-bir\">Birkenfurnier-Sperrholz<\/a>"},
+        {"material":     "<a href=\"../glossar.html#gloss-hpl\">HPL-Beschichtung<\/a>"}
       ]
     },
 
@@ -285,8 +285,8 @@
         }
       ],
       "productmaterials": [
-        {"material":      "Oberseite &amp; Beine in Esche oder Eiche, natur"},
-        {"material":      "Unterseite Esche, farbig lackiert"}
+        {"material":      "Kopfteil &amp; Beine in Esche natur oder Eiche, natur"},
+        {"material":      "Kopfteil außen farbig lackiert"}
       ]
     },
 
@@ -319,7 +319,8 @@
         }
       ],
       "productmaterials": [
-        {"material":      "komplett aus Walnussholz natur oder Eiche natur (astfrei)"}
+        {"material":      "komplett aus Walnussholz natur oder Eiche natur (astfrei)"},
+        {"material":      "Oberseite farbig lackiert"}
       ]
     },
 
@@ -382,9 +383,10 @@
       "productmaterials": [
         {"material":      "Eiche-, Esche- oder Nu&szlig;baumholz, ge&ouml;lt"},
         {"material":      "farbige Teillackierung"},
-        {"material":      "Kippschalter aus Kunststoff mit Chromrosette"},
-        {"material":      "Trafo Input: AC 100&#8211;240V 50/60HZ, Output: DC&nbsp;12V&nbsp;1,0A"},
-        {"material":      "Stromkabel mit 1,4m L&auml;nge"}
+        {"material":      "35 warmweiße LED's (3000 K Lichttemperatur)"},
+        {"material":      "Kippschalter aus Kunststoffe mit Chromrosette"},
+        {"material":      "Stromkabel mit 1,4 m L&auml;nge"},
+        {"material":      "Sockel mit Bodenplatte aus 3mm Stahlblech (pulverbeschichtet)"}
       ]
     },
 
@@ -399,24 +401,16 @@
             {"variantdiff":   "Holzsockel"},
             {"variantprice":  "490"}
           ]
-        },
-        {
-          "variant": [
-            {"variantname":   ""},
-            {"variantdiff":   "Betonsockel"},
-            {"variantprice":  "550"}
-          ]
         }
       ],
       "productmaterials": [
         {"material":      "Eiche- oder Nussbaumholz, ge&ouml;lt"},
         {"material":      "auf Wunsch teillackiert"},
-        {"material":      "54 warmwei&szlig;e LED's (4,32W Stromverbrauch)"},
+        {"material":      "35 warmweiße LED's (3000 K Lichttemperatur) 250 Lumen"},
         {"material":      "Kippschalter aus Kunststoff mit Chromrosette"},
-        {"material":      "Trafo Input: AC 100–240V 50/60HZ, Output: DC 12V 1,0A"},
-        {"material":      "Stromkabel mit 1,4m L&auml;nge"},
-        {"material":      "3mm Stahlblech Bodenplatte pulverbeschichtet"},
-        {"material":      "optional: Betonsockel f&uuml;r noch bessere Standsicherheit"}
+        {"material":      "Flacher Einbautrafo im Sockel"},
+        {"material":      "Stromkabel mit 1,4 m L&auml;nge"},
+        {"material":      "Sockel mit Bodenplatte aus 3mm Stahlblech (pulverbeschichtet)"}
 
       ]
     }

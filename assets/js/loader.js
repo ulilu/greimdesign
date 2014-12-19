@@ -42,6 +42,28 @@ Modernizr.load([
       }
     },
     complete: function() {
+      var newspic = new Riloadr({
+        name: 'newspic',
+        base: root + 'assets/img/news/', // {breakpoint-name} will be replaced by one of your breakpoints names
+        ignoreLowBandwidth: false, // Hi-Res images will only be requested on high-bandwidth connections
+        onload: function() {
+          this.parentNode.parentNode.parentNode.className = this.parentNode.parentNode.parentNode.className.replace( /(?:^|\s)loading(?!\S)/g , '' ); // remove the loading-spinner
+        // very complicated solution, necessary for ie9 (which doesn't support .classList.remove)
+        },
+        oncomplete: function(){
+            console.log("Newspic loaded");
+        },
+        retries: 1,
+        breakpoints: [
+          {name: '-pl',    maxWidth: 767},
+          {name: '-pl-r',  maxWidth: 767, minDevicePixelRatio: 1.3},
+          {name: '-c',     minWidth: 768 }
+        ],
+        watchViewportWidth: '*'
+      });
+      
+      
+      
       var moodpic = new Riloadr({
         name: 'moodpic',
         base: root + 'assets/img/moebel/', // {breakpoint-name} will be replaced by one of your breakpoints names
@@ -61,7 +83,7 @@ Modernizr.load([
         ],
         watchViewportWidth: '*'
       });
-      
+
       var blurbpic = new Riloadr({
         name: 'blurbpic',
         base: root + 'assets/img/', // {breakpoint-name} will be replaced by one of your breakpoints names
